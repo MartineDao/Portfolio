@@ -1,12 +1,8 @@
 .about-me {
-    border: 0 solid;
+    background-color: cornflowerblue;
 }
 
 .about-title {
     font-size: 25px;
     font-weight: bold;
 }
-
-/*.about-text {
-   
-}*/

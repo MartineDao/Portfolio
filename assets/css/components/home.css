@@ -1,12 +1,26 @@
 #home {
-    /* background-color: rgb(212, 225, 237);*/
     color: white;
     background-image: url("../../image/digitization.jpg");
-
+    line-height: 1.5cm;
 }
 
-.moi {
-    background-color: rgb(1, 17, 53);
+.name-job {
+    font-size: xx-large;
+    padding-top: 100px;
 }
 
+.about-link a {
+    font-size: 22px;
+    color: white;
+    text-decoration: none;
+    border: 0;
+    border-radius: 3px;
+    padding: 5px;
+    background-color: rgb(34, 55, 99);
+}
 
+.about-link a:hover {
+    font-size: 26px;
+    background-color: cornflowerblue;
+    font-weight: bold;
+}
