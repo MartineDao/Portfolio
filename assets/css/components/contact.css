@@ -1,0 +1,43 @@
+#contact {
+    background-color: cornflowerblue;
+}
+
+fieldset {
+    background-color: rgb(26, 36, 58);
+}
+
+/*********************Send message*****************/
+
+.hauteur {
+    height: 25px;
+}
+
+#phone {
+    width: 231px;
+}
+
+.btn {
+    background-color: cornflowerblue;
+    border-radius: 2px;
+    height: 30px;
+    width: 100px;
+}
+
+/******************Reseaux et autres**************/
+.mail a,
+.num a {
+    text-decoration: none;
+}
+
+.Rs {
+    font-size: 15px;
+    color: aliceblue;
+    border: 0px solid;
+    border-radius: 50%;
+    background-color: grey;
+    padding: 10px;
+}
+
+.Rs:hover {
+    background-color: aqua;
+}

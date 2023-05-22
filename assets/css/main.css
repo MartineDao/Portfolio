@@ -1,2 +1,8 @@
-@import url("utiles.css");
+@import url("../css/components/home.css");
+@import url("../css/components/about.css");
+@import url("../css/components/service.css");
+@import url("../css/components/portfolio.css");
+@import url("../css/components/training.css");
+@import url("../css/components/contact.css");
+@import url("../css/framework/utiles.css");
 @import url("style.css");

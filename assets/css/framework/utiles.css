@@ -4,6 +4,15 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/****************TEXT-TRANSFORM***************/
+.uppercase{
+    text-transform: uppercase;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+
 /****************ALIGNEMENT***************/
 .tc {
     text-align: center;
